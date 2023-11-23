@@ -13,3 +13,7 @@ namespace AgustinTes.Data
         public DbSet<Juego> Juegos { get; set; }
     }
 }
+
+//en el package manager console add-migration *insertar nombre*
+//update-database
+//tiene que tener las librerias de ef.design

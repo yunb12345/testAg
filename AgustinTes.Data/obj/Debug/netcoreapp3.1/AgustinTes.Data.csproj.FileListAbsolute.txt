@@ -3,3 +3,10 @@ C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\bin\Debug\netcoreapp3.1
 C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.csprojAssemblyReference.cache
 C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.AssemblyInfoInputs.cache
 C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.AssemblyInfo.cs
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\bin\Debug\netcoreapp3.1\AgustinTes.Data.runtimeconfig.json
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\bin\Debug\netcoreapp3.1\AgustinTes.Data.runtimeconfig.dev.json
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.genruntimeconfig.cache
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\bin\Debug\netcoreapp3.1\AgustinTes.Data.pdb
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.dll
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.pdb
