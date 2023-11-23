@@ -1,0 +1,5 @@
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\bin\Debug\netcoreapp3.1\AgustinTes.Data.deps.json
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\bin\Debug\netcoreapp3.1\AgustinTes.Data.dll
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.csprojAssemblyReference.cache
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.AssemblyInfoInputs.cache
+C:\Users\Lok1To\source\repos\AgustinTest\AgustinTes.Data\obj\Debug\netcoreapp3.1\AgustinTes.Data.AssemblyInfo.cs
